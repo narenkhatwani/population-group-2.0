@@ -1,0 +1,664 @@
+CUI,LAT,manual_check,STR,STY,is_race_or_ethnic_group,is_descriptor_of_people_or_region
+C0000901,ENG,FALSE,acceptors,Population Group,FALSE,FALSE
+C0001792,ENG,FALSE,Elderly (population group),Population Group,FALSE,FALSE
+C0002049,ENG,FALSE,Aliens,Population Group,FALSE,FALSE
+C0005795,ENG,FALSE,Blood donor,Population Group,FALSE,FALSE
+C0008096,ENG,FALSE,"Child, Exceptional",Population Group,FALSE,FALSE
+C0008097,ENG,FALSE,"Child, Gifted",Population Group,FALSE,FALSE
+C0010476,ENG,FALSE,Currently Married,Population Group,FALSE,FALSE
+C0012613,ENG,FALSE,Disadvantaged Populations,Population Group,FALSE,FALSE
+C0013018,ENG,FALSE,Donor person,Population Group,FALSE,FALSE
+C0013135,ENG,FALSE,Dropouts,Population Group,FALSE,FALSE
+C0015031,ENG,FALSE,Ethnicity,Population Group,FALSE,FALSE
+C0015209,ENG,FALSE,Ever Married,Population Group,FALSE,FALSE
+C0015621,ENG,FALSE,Famous Persons,Population Group,FALSE,FALSE
+C0018103,ENG,FALSE,Governing Board,Population Group,FALSE,FALSE
+C0019529,ENG,FALSE,High Fertility Population,Population Group,FALSE,FALSE
+C0019532,ENG,FALSE,High-Income Population,Population Group,FALSE,FALSE
+C0019863,ENG,FALSE,Homeless persons,Population Group,FALSE,FALSE
+C0019898,ENG,FALSE,Homosexuals,Population Group,FALSE,FALSE
+C0020155,ENG,FALSE,Human Volunteers,Population Group,FALSE,FALSE
+C0021216,ENG,FALSE,Indigents,Population Group,FALSE,FALSE
+C0021729,ENG,FALSE,Interest Groups,Population Group,FALSE,FALSE
+C0022443,ENG,FALSE,juvenile delinquent,Population Group,FALSE,FALSE
+C0022866,ENG,FALSE,Labor Force,Population Group,FALSE,FALSE
+C0023226,ENG,FALSE,Legal Guardians,Population Group,FALSE,FALSE
+C0024045,ENG,FALSE,Low-Income Population,Population Group,FALSE,FALSE
+C0025266,ENG,FALSE,Male population group,Population Group,FALSE,FALSE
+C0025369,ENG,FALSE,Mentors,Population Group,FALSE,FALSE
+C0026065,ENG,FALSE,Middle Class Population,Population Group,FALSE,FALSE
+C0026092,ENG,FALSE,Migrant Workers,Population Group,FALSE,FALSE
+C0026093,ENG,FALSE,Migrants,Population Group,FALSE,FALSE
+C0026192,ENG,FALSE,Minority Groups,Population Group,FALSE,FALSE
+C0026193,ENG,FALSE,Minor (person),Population Group,FALSE,FALSE
+C0026767,ENG,FALSE,multiple partners,Population Group,FALSE,FALSE
+C0027361,ENG,FALSE,Persons,Population Group,FALSE,FALSE
+C0027363,ENG,FALSE,Occupational Group,Population Group,FALSE,FALSE
+C0028307,ENG,FALSE,Nonmigrants,Population Group,FALSE,FALSE
+C0029034,ENG,FALSE,One-Person Household,Population Group,FALSE,FALSE
+C0029206,ENG,FALSE,organ donor,Population Group,FALSE,FALSE
+C0029975,ENG,FALSE,Ovum Donors,Population Group,FALSE,FALSE
+C0030686,ENG,FALSE,Patient Dropouts,Population Group,FALSE,FALSE
+C0030767,ENG,FALSE,Peer Group,Population Group,FALSE,FALSE
+C0033011,ENG,FALSE,Pregnant Women,Population Group,FALSE,FALSE
+C0033152,ENG,FALSE,Primitive Societies,Population Group,FALSE,FALSE
+C0033167,ENG,FALSE,Prisoners,Population Group,FALSE,FALSE
+C0033176,ENG,FALSE,Private Sector,Population Group,FALSE,FALSE
+C0034035,ENG,FALSE,Public Sector,Population Group,FALSE,FALSE
+C0034510,ENG,FALSE,Racial Groups,Population Group,FALSE,FALSE
+C0034961,ENG,FALSE,Refugees,Population Group,FALSE,FALSE
+C0036615,ENG,FALSE,Semen Donors,Population Group,FALSE,FALSE
+C0036911,ENG,FALSE,Sexual Partners,Population Group,FALSE,FALSE
+C0037179,ENG,FALSE,Unmarried person,Population Group,FALSE,FALSE
+C0037263,ENG,FALSE,Skid Row Alcoholics,Population Group,FALSE,FALSE
+C0037311,ENG,FALSE,Enslaved Persons,Population Group,FALSE,FALSE
+C0038077,ENG,FALSE,Squatters,Population Group,FALSE,FALSE
+C0038488,ENG,FALSE,Student Dropouts,Population Group,FALSE,FALSE
+C0038492,ENG,FALSE,student,Population Group,FALSE,FALSE
+C0039309,ENG,FALSE,Target Population,Population Group,FALSE,FALSE
+C0040288,ENG,FALSE,Tissue Donors,Population Group,FALSE,FALSE
+C0040704,ENG,FALSE,Transient Population Group,Population Group,FALSE,FALSE
+C0040705,ENG,FALSE,Transients and Migrants,Population Group,FALSE,FALSE
+C0041903,ENG,FALSE,Unwanted Births,Population Group,FALSE,FALSE
+C0041935,ENG,FALSE,Urban Population,Population Group,FALSE,FALSE
+C0042441,ENG,FALSE,Vegetarian (finding),Population Group,FALSE,FALSE
+C0042610,ENG,FALSE,Veterans,Population Group,FALSE,FALSE
+C0042801,ENG,FALSE,Visitors to Patients,Population Group,FALSE,FALSE
+C0043210,ENG,FALSE,Woman,Population Group,FALSE,FALSE
+C0043215,ENG,FALSE,"Women, Working",Population Group,FALSE,FALSE
+C0079111,ENG,FALSE,Child of Impaired Parents,Population Group,FALSE,FALSE
+C0079379,ENG,FALSE,Frail Older Adults,Population Group,FALSE,FALSE
+C0079382,ENG,FALSE,friend,Population Group,FALSE,FALSE
+C0079385,ENG,FALSE,Functionally-Impaired Elderly,Population Group,FALSE,FALSE
+C0080050,ENG,FALSE,Pro-Choice Groups,Population Group,FALSE,FALSE
+C0080105,ENG,FALSE,Research Subject,Population Group,FALSE,FALSE
+C0085561,ENG,FALSE,Medically Uninsured,Population Group,FALSE,FALSE
+C0086602,ENG,FALSE,Medically Underinsured,Population Group,FALSE,FALSE
+C0086713,ENG,FALSE,Nonrespondents,Population Group,FALSE,FALSE
+C0087032,ENG,FALSE,Street People,Population Group,FALSE,FALSE
+C0087132,ENG,FALSE,Underinsured,Population Group,FALSE,FALSE
+C0150775,ENG,FALSE,Social Networks,Population Group,FALSE,FALSE
+C0162592,ENG,FALSE,Public Domain,Population Group,FALSE,FALSE
+C0175941,ENG,FALSE,Chemical workers,Population Group,FALSE,FALSE
+C0178515,ENG,FALSE,Bisexuals,Population Group,FALSE,FALSE
+C0178835,ENG,FALSE,role models,Population Group,FALSE,FALSE
+C0217846,ENG,FALSE,Vagabond,Population Group,FALSE,FALSE
+C0237401,ENG,FALSE,Individual,Population Group,FALSE,FALSE
+C0237501,ENG,FALSE,Political Candidates,Population Group,FALSE,FALSE
+C0237605,ENG,FALSE,Gifted Exceptional Children,Population Group,FALSE,FALSE
+C0237632,ENG,FALSE,Juvenile Gangs,Population Group,FALSE,FALSE
+C0237755,ENG,FALSE,Adult Offenders,Population Group,FALSE,FALSE
+C0237945,ENG,FALSE,Military Veterans,Population Group,FALSE,FALSE
+C0238602,ENG,FALSE,Central African People,Population Group,FALSE,FALSE
+C0238627,ENG,FALSE,Amphetamine Users,Population Group,FALSE,FALSE
+C0242000,ENG,FALSE,morphine use,Population Group,FALSE,FALSE
+C0242268,ENG,FALSE,Emigrants and Immigrants,Population Group,FALSE,FALSE
+C0242299,ENG,FALSE,Orphan child,Population Group,FALSE,FALSE
+C0242543,ENG,FALSE,Women's Groups,Population Group,FALSE,FALSE
+C0242657,ENG,FALSE,Gays,Population Group,FALSE,FALSE
+C0242660,ENG,FALSE,Runaways,Population Group,FALSE,FALSE
+C0242662,ENG,FALSE,Street Youth,Population Group,FALSE,FALSE
+C0242663,ENG,FALSE,Homeless Youth,Population Group,FALSE,FALSE
+C0260103,ENG,FALSE,Child molester,Population Group,FALSE,FALSE
+C0260786,ENG,FALSE,Bone tissue donor (person),Population Group,FALSE,FALSE
+C0260787,ENG,FALSE,Bone marrow donor (person),Population Group,FALSE,FALSE
+C0260788,ENG,FALSE,Donor of kidney for transplant (person),Population Group,FALSE,FALSE
+C0282122,ENG,FALSE,Respondents,Population Group,FALSE,FALSE
+C0282163,ENG,FALSE,Immigrant (person),Population Group,FALSE,FALSE
+C0302512,ENG,FALSE,Donor for liver transplant (person),Population Group,FALSE,FALSE
+C0302823,ENG,FALSE,Crime Victims,Population Group,FALSE,FALSE
+C0335343,ENG,FALSE,Companions,Population Group,FALSE,FALSE
+C0336498,ENG,FALSE,Driver of motor vehicle,Population Group,FALSE,FALSE
+C0336518,ENG,FALSE,New worker seeking employment,Population Group,FALSE,FALSE
+C0336519,ENG,FALSE,Worker reporting occupation unidentifiable or inadequately described,Population Group,FALSE,FALSE
+C0336521,ENG,FALSE,Worker not reporting any occupation,Population Group,FALSE,FALSE
+C0337563,ENG,FALSE,Orphan female,Population Group,FALSE,FALSE
+C0337575,ENG,FALSE,Orphan male,Population Group,FALSE,FALSE
+C0337604,ENG,FALSE,Female fiance,Population Group,FALSE,FALSE
+C0337605,ENG,FALSE,Male fiance,Population Group,FALSE,FALSE
+C0337606,ENG,FALSE,Babysitter,Population Group,FALSE,FALSE
+C0337609,ENG,FALSE,Acquaintances,Population Group,FALSE,FALSE
+C0337611,ENG,FALSE,contact person,Population Group,FALSE,FALSE
+C0337647,ENG,FALSE,City dweller,Population Group,FALSE,FALSE
+C0337649,ENG,FALSE,Country dweller,Population Group,FALSE,FALSE
+C0337669,ENG,FALSE,Heavy smoker (over 20 per day),Population Group,FALSE,FALSE
+C0348050,ENG,FALSE,Living Donors,Population Group,FALSE,FALSE
+C0349678,ENG,FALSE,Sportsman,Population Group,FALSE,FALSE
+C0375876,ENG,FALSE,Whole blood donor (person),Population Group,FALSE,FALSE
+C0375877,ENG,FALSE,Stem cell donor (person),Population Group,FALSE,FALSE
+C0392895,ENG,FALSE,Bloods (ethnic group),Population Group,FALSE,FALSE
+C0420992,ENG,FALSE,Postnatal care provider,Population Group,FALSE,FALSE
+C0425241,ENG,FALSE,Homeless family,Population Group,FALSE,FALSE
+C0425242,ENG,FALSE,Homeless single person,Population Group,FALSE,FALSE
+C0425334,ENG,FALSE,Nonconformist,Population Group,FALSE,FALSE
+C0450045,ENG,FALSE,Rider of animal,Population Group,FALSE,FALSE
+C0450046,ENG,FALSE,Motorcycle rider,Population Group,FALSE,FALSE
+C0450047,ENG,FALSE,Rider of pedal cycle,Population Group,FALSE,FALSE
+C0450048,ENG,FALSE,Passenger,Population Group,FALSE,FALSE
+C0450049,ENG,FALSE,Occupant of motor vehicle,Population Group,FALSE,FALSE
+C0450050,ENG,FALSE,Occupant of tram,Population Group,FALSE,FALSE
+C0450051,ENG,FALSE,Pillion passenger,Population Group,FALSE,FALSE
+C0450052,ENG,FALSE,Person riding on outside of vehicle,Population Group,FALSE,FALSE
+C0450053,ENG,FALSE,Front seat passenger,Population Group,FALSE,FALSE
+C0450054,ENG,FALSE,Back seat passenger,Population Group,FALSE,FALSE
+C0450055,ENG,FALSE,Occupant of animal-drawn vehicle,Population Group,FALSE,FALSE
+C0450056,ENG,FALSE,Passenger on commercial watercraft,Population Group,FALSE,FALSE
+C0450057,ENG,FALSE,Passenger on station,Population Group,FALSE,FALSE
+C0450058,ENG,FALSE,Passenger on train,Population Group,FALSE,FALSE
+C0450060,ENG,FALSE,Member of public involved incidentally,Population Group,FALSE,FALSE
+C0450061,ENG,FALSE,Member of public on ground,Population Group,FALSE,FALSE
+C0450062,ENG,FALSE,Occupant of nonmotor vehicle,Population Group,FALSE,FALSE
+C0450063,ENG,FALSE,Pedestrians,Population Group,FALSE,FALSE
+C0450064,ENG,FALSE,Person trespassing on railway line,Population Group,FALSE,FALSE
+C0450067,ENG,FALSE,Recreational watercraft user,Population Group,FALSE,FALSE
+C0450068,ENG,FALSE,Swimmer,Population Group,FALSE,FALSE
+C0450069,ENG,FALSE,User of animal-drawn vehicle,Population Group,FALSE,FALSE
+C0450070,ENG,FALSE,Watercraft dweller,Population Group,FALSE,FALSE
+C0450071,ENG,FALSE,Water skier,Population Group,FALSE,FALSE
+C0475460,ENG,FALSE,Person traveling on outside of train,Population Group,FALSE,FALSE
+C0478586,ENG,FALSE,Donor of other organs and tissues,Population Group,FALSE,FALSE
+C0489844,ENG,FALSE,Interviewee,Population Group,FALSE,FALSE
+C0521319,ENG,FALSE,Boyfriend,Population Group,FALSE,FALSE
+C0521320,ENG,FALSE,Girlfriend,Population Group,FALSE,FALSE
+C0521998,ENG,FALSE,"Age 40 to 49 years, female",Population Group,FALSE,FALSE
+C0522000,ENG,FALSE,"Age more than 50 years, male",Population Group,FALSE,FALSE
+C0522001,ENG,FALSE,"Age more than 50 years, female",Population Group,FALSE,FALSE
+C0522005,ENG,FALSE,"Age more than 40 years, african american male",Population Group,FALSE,FALSE
+C0524348,ENG,FALSE,Sick relative,Population Group,FALSE,FALSE
+C0524353,ENG,FALSE,Donor for medical or surgical procedure,Population Group,FALSE,FALSE
+C0524354,ENG,FALSE,Cadaver donor (person),Population Group,FALSE,FALSE
+C0524355,ENG,FALSE,Candidate donor,Population Group,FALSE,FALSE
+C0524356,ENG,FALSE,Accepted donor,Population Group,FALSE,FALSE
+C0524357,ENG,FALSE,Rejected donor,Population Group,FALSE,FALSE
+C0524358,ENG,FALSE,Eye donor for corneal transplant,Population Group,FALSE,FALSE
+C0524359,ENG,FALSE,Donor for heart transplant (person),Population Group,FALSE,FALSE
+C0524360,ENG,FALSE,Donor for lung transplant,Population Group,FALSE,FALSE
+C0524361,ENG,FALSE,Donor for heart-lung transplant,Population Group,FALSE,FALSE
+C0524362,ENG,FALSE,Spermatozoa donor (person),Population Group,FALSE,FALSE
+C0524363,ENG,FALSE,"Sperm donor, husband",Population Group,FALSE,FALSE
+C0524364,ENG,FALSE,"Sperm donor, relative",Population Group,FALSE,FALSE
+C0524365,ENG,FALSE,"Sperm donor, known person",Population Group,FALSE,FALSE
+C0524366,ENG,FALSE,"Sperm donor, unknown person",Population Group,FALSE,FALSE
+C0524400,ENG,FALSE,Sexual offender,Population Group,FALSE,FALSE
+C0524401,ENG,FALSE,Rapist,Population Group,FALSE,FALSE
+C0524402,ENG,FALSE,Stalker,Population Group,FALSE,FALSE
+C0524403,ENG,FALSE,Peeping Tom,Population Group,FALSE,FALSE
+C0524405,ENG,FALSE,Burglar (life style),Population Group,FALSE,FALSE
+C0524406,ENG,FALSE,Shoplifter,Population Group,FALSE,FALSE
+C0524407,ENG,FALSE,Pickpocket,Population Group,FALSE,FALSE
+C0524408,ENG,FALSE,White collar thief,Population Group,FALSE,FALSE
+C0524409,ENG,FALSE,Embezzler,Population Group,FALSE,FALSE
+C0524410,ENG,FALSE,Kidnapper,Population Group,FALSE,FALSE
+C0524411,ENG,FALSE,Torturer,Population Group,FALSE,FALSE
+C0524412,ENG,FALSE,Sexual torturer,Population Group,FALSE,FALSE
+C0524692,ENG,FALSE,Hostages,Population Group,FALSE,FALSE
+C0580160,ENG,FALSE,Person in the transport environment,Population Group,FALSE,FALSE
+C0580163,ENG,FALSE,Person in the home environment,Population Group,FALSE,FALSE
+C0580165,ENG,FALSE,Person in the religious environment,Population Group,FALSE,FALSE
+C0580210,ENG,FALSE,Person in the healthcare environment,Population Group,FALSE,FALSE
+C0580212,ENG,FALSE,Person in the recreational environment,Population Group,FALSE,FALSE
+C0580213,ENG,FALSE,Person in the educational environment,Population Group,FALSE,FALSE
+C0580693,ENG,FALSE,Child for adoption,Population Group,FALSE,FALSE
+C0581692,ENG,FALSE,Occupant of railway vehicle,Population Group,FALSE,FALSE
+C0581695,ENG,FALSE,Driver of animal-drawn vehicle,Population Group,FALSE,FALSE
+C0581697,ENG,FALSE,Passenger of animal-drawn vehicle,Population Group,FALSE,FALSE
+C0581702,ENG,FALSE,Passenger on pedal cycle,Population Group,FALSE,FALSE
+C0581703,ENG,FALSE,Occupant of watercraft,Population Group,FALSE,FALSE
+C0581704,ENG,FALSE,Occupant of aircraft,Population Group,FALSE,FALSE
+C0581705,ENG,FALSE,Horse rider,Population Group,FALSE,FALSE
+C0581706,ENG,FALSE,Passenger on aircraft,Population Group,FALSE,FALSE
+C0581708,ENG,FALSE,Passenger of motor vehicle,Population Group,FALSE,FALSE
+C0581709,ENG,FALSE,Trespasser,Population Group,FALSE,FALSE
+C0581710,ENG,FALSE,Car passenger,Population Group,FALSE,FALSE
+C0581711,ENG,FALSE,Coach passenger,Population Group,FALSE,FALSE
+C0597010,ENG,FALSE,Special Population,Population Group,FALSE,FALSE
+C0597369,ENG,FALSE,Religious Group,Population Group,FALSE,FALSE
+C0598781,ENG,FALSE,communes,Population Group,FALSE,FALSE
+C0599434,ENG,FALSE,women's rights group,Population Group,FALSE,FALSE
+C0599755,ENG,FALSE,Cohort,Population Group,FALSE,FALSE
+C0679646,ENG,FALSE,Participant,Population Group,FALSE,FALSE
+C0679739,ENG,FALSE,Peer,Population Group,FALSE,FALSE
+C0679792,ENG,FALSE,server (role),Population Group,FALSE,FALSE
+C0680021,ENG,FALSE,codependent,Population Group,FALSE,FALSE
+C0680022,ENG,FALSE,member,Population Group,FALSE,FALSE
+C0680396,ENG,FALSE,cliques,Population Group,FALSE,FALSE
+C0680397,ENG,FALSE,gang (group),Population Group,FALSE,FALSE
+C0680399,ENG,FALSE,Reference Group,Population Group,FALSE,FALSE
+C0680404,ENG,FALSE,Kibbutz,Population Group,FALSE,FALSE
+C0680413,ENG,FALSE,civilian,Population Group,FALSE,FALSE
+C0680681,ENG,FALSE,victim,Population Group,FALSE,FALSE
+C0681088,ENG,FALSE,coworker,Population Group,FALSE,FALSE
+C0681273,ENG,FALSE,audience,Population Group,FALSE,FALSE
+C0682070,ENG,FALSE,pregnant teen,Population Group,FALSE,FALSE
+C0682134,ENG,FALSE,Citizen,Population Group,FALSE,FALSE
+C0682136,ENG,FALSE,Naturalized citizen,Population Group,FALSE,FALSE
+C0682138,ENG,FALSE,Undocumented Immigrants,Population Group,FALSE,FALSE
+C0682140,ENG,FALSE,Foreign visitor,Population Group,FALSE,FALSE
+C0682151,ENG,FALSE,legally blind,Population Group,FALSE,FALSE
+C0682172,ENG,FALSE,latchkey children,Population Group,FALSE,FALSE
+C0682175,ENG,FALSE,elementary student,Population Group,FALSE,FALSE
+C0682176,ENG,FALSE,high school students,Population Group,FALSE,FALSE
+C0682177,ENG,FALSE,College student,Population Group,FALSE,FALSE
+C0682196,ENG,FALSE,Economically Deprived Population,Population Group,FALSE,FALSE
+C0682198,ENG,FALSE,welfare recipient,Population Group,FALSE,FALSE
+C0682200,ENG,FALSE,Working Poor,Population Group,FALSE,FALSE
+C0682201,ENG,FALSE,middle class,Population Group,FALSE,FALSE
+C0682205,ENG,FALSE,Upper Class,Population Group,FALSE,FALSE
+C0682219,ENG,FALSE,Job Applicants,Population Group,FALSE,FALSE
+C0682275,ENG,FALSE,House husband,Population Group,FALSE,FALSE
+C0682287,ENG,FALSE,nursing home resident,Population Group,FALSE,FALSE
+C0682289,ENG,FALSE,Runaway children,Population Group,FALSE,FALSE
+C0682306,ENG,FALSE,vietnam veteran,Population Group,FALSE,FALSE
+C0682313,ENG,FALSE,Parolee,Population Group,FALSE,FALSE
+C0682338,ENG,FALSE,Roommate,Population Group,FALSE,FALSE
+C0682341,ENG,FALSE,mistress,Population Group,FALSE,FALSE
+C0682352,ENG,FALSE,Motorcyclist,Population Group,FALSE,FALSE
+C0682355,ENG,FALSE,tourist,Population Group,FALSE,FALSE
+C0682356,ENG,FALSE,Witnesses,Population Group,FALSE,FALSE
+C0682431,ENG,FALSE,Brethren,Population Group,FALSE,FALSE
+C0682432,ENG,FALSE,Congregational,Population Group,FALSE,FALSE
+C0682446,ENG,FALSE,Unification church religious movement,Population Group,FALSE,FALSE
+C0683073,ENG,FALSE,drunk driver,Population Group,FALSE,FALSE
+C0683625,ENG,FALSE,cadres,Population Group,FALSE,FALSE
+C0683747,ENG,FALSE,clientele,Population Group,FALSE,FALSE
+C0683971,ENG,FALSE,General Population,Population Group,FALSE,FALSE
+C0684030,ENG,FALSE,high-risk group,Population Group,FALSE,FALSE
+C0684312,ENG,FALSE,Vehicle driver,Population Group,FALSE,FALSE
+C0686722,ENG,FALSE,Victim of kidnapping,Population Group,FALSE,FALSE
+C0687669,ENG,FALSE,Children of alcoholics,Population Group,FALSE,FALSE
+C0687733,ENG,FALSE,Junior High School Students,Population Group,FALSE,FALSE
+C0687735,ENG,FALSE,shaker,Population Group,FALSE,FALSE
+C0687744,ENG,FALSE,Social group,Population Group,FALSE,FALSE
+C0687759,ENG,FALSE,traveler,Population Group,FALSE,FALSE
+C0696628,ENG,FALSE,Applicant (person),Population Group,FALSE,FALSE
+C0699726,ENG,FALSE,Offenders,Population Group,FALSE,FALSE
+C0699799,ENG,FALSE,subculture Social,Population Group,FALSE,FALSE
+C0699868,ENG,FALSE,lover,Population Group,FALSE,FALSE
+C0814964,ENG,FALSE,undergraduate student,Population Group,FALSE,FALSE
+C0815271,ENG,FALSE,retiree,Population Group,FALSE,FALSE
+C0840999,ENG,FALSE,Other blood products donor,Population Group,FALSE,FALSE
+C0847494,ENG,FALSE,Overactive child,Population Group,FALSE,FALSE
+C0856982,ENG,FALSE,Indecent offender,Population Group,FALSE,FALSE
+C0860067,ENG,FALSE,Plasma donor,Population Group,FALSE,FALSE
+C0860068,ENG,FALSE,Paid plasma donor,Population Group,FALSE,FALSE
+C0860069,ENG,FALSE,Volunteer blood donor,Population Group,FALSE,FALSE
+C0860082,ENG,FALSE,Sexual abuser,Population Group,FALSE,FALSE
+C0860097,ENG,FALSE,Pedophile,Population Group,FALSE,FALSE
+C0870219,ENG,FALSE,Bourgeois,Population Group,FALSE,FALSE
+C0870308,ENG,FALSE,College Dropouts,Population Group,FALSE,FALSE
+C0870316,ENG,FALSE,Community College Students,Population Group,FALSE,FALSE
+C0870358,ENG,FALSE,Counselee,Population Group,FALSE,FALSE
+C0870376,ENG,FALSE,Criminally Insane,Population Group,FALSE,FALSE
+C0870437,ENG,FALSE,Divorced Persons,Population Group,FALSE,FALSE
+C0870454,ENG,FALSE,dyads,Population Group,FALSE,FALSE
+C0870465,ENG,FALSE,education students,Population Group,FALSE,FALSE
+C0870481,ENG,FALSE,elementary school students,Population Group,FALSE,FALSE
+C0870575,ENG,FALSE,Foreign National,Population Group,FALSE,FALSE
+C0870578,ENG,FALSE,Foreign Workers,Population Group,FALSE,FALSE
+C0870597,ENG,FALSE,Homosexual male,Population Group,FALSE,FALSE
+C0870629,ENG,FALSE,Guest Workers,Population Group,FALSE,FALSE
+C0870646,ENG,FALSE,High Risk Populations,Population Group,FALSE,FALSE
+C0870649,ENG,FALSE,High School Graduate,Population Group,FALSE,FALSE
+C0870651,ENG,FALSE,Hippies,Population Group,FALSE,FALSE
+C0870654,ENG,FALSE,holocaust survivors,Population Group,FALSE,FALSE
+C0870659,ENG,FALSE,homeless mentally ill,Population Group,FALSE,FALSE
+C0870704,ENG,FALSE,Informants,Population Group,FALSE,FALSE
+C0870729,ENG,FALSE,Intermediate School Students,Population Group,FALSE,FALSE
+C0870765,ENG,FALSE,Junior College Students,Population Group,FALSE,FALSE
+C0870770,ENG,FALSE,Kindergarten Students,Population Group,FALSE,FALSE
+C0870780,ENG,FALSE,Labor Union Members,Population Group,FALSE,FALSE
+C0870821,ENG,FALSE,Lower Class,Population Group,FALSE,FALSE
+C0870831,ENG,FALSE,Male Criminals,Population Group,FALSE,FALSE
+C0870881,ENG,FALSE,Mentally Ill Offenders,Population Group,FALSE,FALSE
+C0870968,ENG,FALSE,Nonprofessional Personnel,Population Group,FALSE,FALSE
+C0871022,ENG,FALSE,Ingroup Outgroup,Population Group,FALSE,FALSE
+C0871061,ENG,FALSE,Perpetrators,Population Group,FALSE,FALSE
+C0871095,ENG,FALSE,Political Refugees (group),Population Group,FALSE,FALSE
+C0871111,ENG,FALSE,Potential Dropouts,Population Group,FALSE,FALSE
+C0871132,ENG,FALSE,Primary School Students,Population Group,FALSE,FALSE
+C0871228,ENG,FALSE,Reentry Students,Population Group,FALSE,FALSE
+C0871299,ENG,FALSE,School Leavers,Population Group,FALSE,FALSE
+C0871402,ENG,FALSE,Special Education Students,Population Group,FALSE,FALSE
+C0871419,ENG,FALSE,sports spectators,Population Group,FALSE,FALSE
+C0871539,ENG,FALSE,Transfer Students,Population Group,FALSE,FALSE
+C0871592,ENG,FALSE,Vocational School Students,Population Group,FALSE,FALSE
+C0871668,ENG,FALSE,Black Power Movement,Population Group,FALSE,FALSE
+C0871674,ENG,FALSE,Catholics,Population Group,FALSE,FALSE
+C0871683,ENG,FALSE,Classmate,Population Group,FALSE,FALSE
+C0871708,ENG,FALSE,Defendants,Population Group,FALSE,FALSE
+C0871746,ENG,FALSE,Female Criminals,Population Group,FALSE,FALSE
+C0871751,ENG,FALSE,Foreign Students,Population Group,FALSE,FALSE
+C0871859,ENG,FALSE,Predelinquent Youth,Population Group,FALSE,FALSE
+C0872004,ENG,FALSE,Socially Disadvantaged,Population Group,FALSE,FALSE
+C0872319,ENG,FALSE,Underserved Populations,Population Group,FALSE,FALSE
+C0877838,ENG,FALSE,Street Children,Population Group,FALSE,FALSE
+C0949366,ENG,FALSE,Vulnerable Populations,Population Group,FALSE,FALSE
+C1138477,ENG,FALSE,"Adolescent, Gifted",Population Group,FALSE,FALSE
+C1144877,ENG,FALSE,MEMBER OF HIGH RISK POPULATION (USE ONLY WITH CODES FOR IMMUNIZATION),Population Group,FALSE,FALSE
+C1144882,ENG,FALSE,"Extra patient or passenger, non-ambulance",Population Group,FALSE,FALSE
+C1257890,ENG,FALSE,Population Group,Population Group,FALSE,FALSE
+C1266854,ENG,FALSE,Donor of control material,Population Group,FALSE,FALSE
+C1272267,ENG,FALSE,Asylum seeker (person),Population Group,FALSE,FALSE
+C1273572,ENG,FALSE,Cohabitee,Population Group,FALSE,FALSE
+C1277335,ENG,FALSE,Parachutist,Population Group,FALSE,FALSE
+C1277336,ENG,FALSE,Bird fancier,Population Group,FALSE,FALSE
+C1283619,ENG,FALSE,Bum,Population Group,FALSE,FALSE
+C1283623,ENG,FALSE,Beggar,Population Group,FALSE,FALSE
+C1306765,ENG,FALSE,Quaker,Population Group,FALSE,FALSE
+C1319882,ENG,FALSE,Informal Caregivers,Population Group,FALSE,FALSE
+C1319883,ENG,FALSE,Primary caregiver,Population Group,FALSE,FALSE
+C1331005,ENG,FALSE,Caribbean People,Population Group,FALSE,FALSE
+C1444709,ENG,FALSE,Person categorized by religious affiliation,Population Group,FALSE,FALSE
+C1444710,ENG,FALSE,Person categorized by age,Population Group,FALSE,FALSE
+C1444712,ENG,FALSE,Person in the legal environment,Population Group,FALSE,FALSE
+C1444713,ENG,FALSE,Subject of record,Population Group,FALSE,FALSE
+C1456623,ENG,FALSE,Alzheimer's Caregivers,Population Group,FALSE,FALSE
+C1508778,ENG,FALSE,Persons who are in close contact with member of high-risk population (use only with codes for immunization),Population Group,FALSE,FALSE
+C1510577,ENG,TRUE,Southeast Asian Cultural Groups,Population Group,FALSE,FALSE
+C1510645,ENG,TRUE,South Asian Cultural Groups,Population Group,FALSE,FALSE
+C1510646,ENG,TRUE,South East Asian Cultural Groups,Population Group,FALSE,FALSE
+C1511553,ENG,FALSE,Culturally and Economically Diverse Group,Population Group,FALSE,FALSE
+C1515834,ENG,FALSE,AIDS Population,Population Group,FALSE,FALSE
+C1517302,ENG,FALSE,Founder Generation,Population Group,FALSE,FALSE
+C1518028,ENG,FALSE,Low Literacy Population,Population Group,FALSE,FALSE
+C1518424,ENG,FALSE,Not Hispanic or Latino,Population Group,FALSE,FALSE
+C1518563,ENG,FALSE,Older Population,Population Group,FALSE,FALSE
+C1518660,ENG,FALSE,Other Minority,Population Group,FALSE,FALSE
+C1519773,ENG,FALSE,Underrepresented Minority,Population Group,FALSE,FALSE
+C1521910,ENG,FALSE,Teens,Population Group,FALSE,FALSE
+C1527360,ENG,FALSE,Heterosexuals,Population Group,FALSE,FALSE
+C1532159,ENG,FALSE,National surgical quality improvement program defined race unknown,Population Group,FALSE,FALSE
+C1533642,ENG,FALSE,Lesbians,Population Group,FALSE,FALSE
+C1545722,ENG,FALSE,Family member/caregiver,Population Group,FALSE,FALSE
+C1545958,ENG,FALSE,ESCORT,Population Group,FALSE,FALSE
+C1546913,ENG,FALSE,Part-time student,Population Group,FALSE,FALSE
+C1547101,ENG,FALSE,Participation Type - donor,Population Group,FALSE,FALSE
+C1549624,ENG,FALSE,see chapter 3 - Ethnic Group,Population Group,FALSE,FALSE
+C1549625,ENG,FALSE,Unknown - Ethnic Group,Population Group,FALSE,FALSE
+C1550443,ENG,FALSE,Person Disability Type - Vision impaired,Population Group,FALSE,FALSE
+C1550444,ENG,FALSE,Person Disability Type - Hearing impaired,Population Group,FALSE,FALSE
+C1553702,ENG,FALSE,Neighbor,Population Group,FALSE,FALSE
+C1699055,ENG,FALSE,Unitarian Universalist,Population Group,FALSE,FALSE
+C1699293,ENG,FALSE,Reformed,Population Group,FALSE,FALSE
+C1704784,ENG,FALSE,Owner,Population Group,FALSE,FALSE
+C1705274,ENG,FALSE,Operator of Medical Device,Population Group,FALSE,FALSE
+C1705275,ENG,FALSE,Operator - device,Population Group,FALSE,FALSE
+C1705429,ENG,FALSE,User Group,Population Group,FALSE,FALSE
+C1706077,ENG,FALSE,System User -- individual,Population Group,FALSE,FALSE
+C1706450,ENG,FALSE,Legal Adult,Population Group,FALSE,FALSE
+C1706962,ENG,FALSE,Birth Cohort,Population Group,FALSE,FALSE
+C1707496,ENG,FALSE,Consumer,Population Group,FALSE,FALSE
+C1708335,ENG,FALSE,Healthy Volunteers,Population Group,FALSE,FALSE
+C1708571,ENG,FALSE,Invoker,Population Group,FALSE,FALSE
+C1709355,ENG,FALSE,Other Caregiver,Population Group,FALSE,FALSE
+C1709696,ENG,FALSE,Producer,Population Group,FALSE,FALSE
+C1709854,ENG,FALSE,Recipient,Population Group,FALSE,FALSE
+C1711305,ENG,FALSE,Sponsor (person),Population Group,FALSE,FALSE
+C1880273,ENG,FALSE,Delegate (person),Population Group,FALSE,FALSE
+C1882950,ENG,FALSE,Reviewer (person),Population Group,FALSE,FALSE
+C1883562,ENG,FALSE,Working Group,Population Group,FALSE,FALSE
+C1955873,ENG,FALSE,Emigrants,Population Group,FALSE,FALSE
+C1955874,ENG,FALSE,Foreigners,Population Group,FALSE,FALSE
+C1955958,ENG,FALSE,Mass Casualties,Population Group,FALSE,FALSE
+C1956419,ENG,FALSE,Illegal migrant,Population Group,FALSE,FALSE
+C1962923,ENG,FALSE,Dependents - population group,Population Group,FALSE,FALSE
+C2079564,ENG,FALSE,perpetrator of adult physical abuse,Population Group,FALSE,FALSE
+C2182821,ENG,FALSE,dermatological surgery skin donor,Population Group,FALSE,FALSE
+C2229181,ENG,FALSE,migratory worker,Population Group,FALSE,FALSE
+C2315093,ENG,FALSE,"Human oocyte donor, age 35 and older",Population Group,FALSE,FALSE
+C2315718,ENG,FALSE,Donor for intestine transplant,Population Group,FALSE,FALSE
+C2346719,ENG,FALSE,Accessible Population,Population Group,FALSE,FALSE
+C2347630,ENG,FALSE,Population Covered,Population Group,FALSE,FALSE
+C2347958,ENG,FALSE,Resident (person),Population Group,FALSE,FALSE
+C2348001,ENG,FALSE,Age Cohort,Population Group,FALSE,FALSE
+C2348228,ENG,FALSE,Source Population,Population Group,FALSE,FALSE
+C2348484,ENG,FALSE,Exposed Population,Population Group,FALSE,FALSE
+C2348534,ENG,FALSE,Steering Committee,Population Group,FALSE,FALSE
+C2348561,ENG,FALSE,Study Population (group),Population Group,FALSE,FALSE
+C2348984,ENG,FALSE,Historical Cohort,Population Group,FALSE,FALSE
+C2349001,ENG,FALSE,Human Study Subject,Population Group,FALSE,FALSE
+C2349018,ENG,FALSE,Unexposed Population,Population Group,FALSE,FALSE
+C2349156,ENG,FALSE,World Standard Population,Population Group,FALSE,FALSE
+C2350029,ENG,FALSE,Sensitive Populations,Population Group,FALSE,FALSE
+C2355574,ENG,FALSE,Ward (person),Population Group,FALSE,FALSE
+C2362498,ENG,FALSE,Children and Teenagers,Population Group,FALSE,FALSE
+C2371718,ENG,FALSE,"Acquaintances, peers, colleagues, neighbours and community members",Population Group,FALSE,FALSE
+C2371719,ENG,FALSE,People in positions of authority,Population Group,FALSE,FALSE
+C2371720,ENG,FALSE,People in subordinate positions,Population Group,FALSE,FALSE
+C2371722,ENG,FALSE,Strangers,Population Group,FALSE,FALSE
+C2585518,ENG,FALSE,Person categorized by affiliation with belief system,Population Group,FALSE,FALSE
+C2607966,ENG,FALSE,Criminals,Population Group,FALSE,FALSE
+C2700280,ENG,FALSE,World,Population Group,FALSE,FALSE
+C2711289,ENG,FALSE,Unrelated known spermatozoa donor for artificial insemination,Population Group,FALSE,FALSE
+C2711378,ENG,FALSE,Unknown spermatozoa donor for artificial insemination,Population Group,FALSE,FALSE
+C2717882,ENG,FALSE,Endangered Species,Population Group,FALSE,FALSE
+C2717883,ENG,FALSE,Threatened Species,Population Group,FALSE,FALSE
+C2732255,ENG,FALSE,Cohabitee in relationship with subject,Population Group,FALSE,FALSE
+C2732430,ENG,FALSE,Person with characteristic related to subject of record,Population Group,FALSE,FALSE
+C2733151,ENG,FALSE,Recipient of biological material from subject,Population Group,FALSE,FALSE
+C2733152,ENG,FALSE,Partner in relationship with subject,Population Group,FALSE,FALSE
+C2735048,ENG,FALSE,Individuals accompanying patient to ED,Population Group,FALSE,FALSE
+C2739015,ENG,FALSE,Guardian or legally authorized representative,Population Group,FALSE,FALSE
+C2826211,ENG,FALSE,Animal Owner,Population Group,FALSE,FALSE
+C2827413,ENG,FALSE,Men who have Sex with Men,Population Group,FALSE,FALSE
+C2906013,ENG,FALSE,"perpetrator of assault, maltreatment and neglect",Population Group,FALSE,FALSE
+C2919223,ENG,FALSE,"Apostolic Pentecostalist, follower of religion",Population Group,FALSE,FALSE
+C2936532,ENG,FALSE,Introduced Species,Population Group,FALSE,FALSE
+C2936533,ENG,FALSE,Invasive Species,Population Group,FALSE,FALSE
+C2945628,ENG,FALSE,woman in development,Population Group,FALSE,FALSE
+C2945649,ENG,FALSE,heroin users,Population Group,FALSE,FALSE
+C2983715,ENG,FALSE,Non-US Citizen,Population Group,FALSE,FALSE
+C2985478,ENG,FALSE,Mutation Carrier,Population Group,FALSE,FALSE
+C2986415,ENG,FALSE,Historical Control Subject,Population Group,FALSE,FALSE
+C2986500,ENG,FALSE,Denomination,Population Group,FALSE,FALSE
+C2986530,ENG,FALSE,Intervention Group,Population Group,FALSE,FALSE
+C2987736,ENG,FALSE,Index case (individual),Population Group,FALSE,FALSE
+C2987738,ENG,FALSE,Vegan,Population Group,FALSE,FALSE
+C3179133,ENG,FALSE,Unrelated Donors,Population Group,FALSE,FALSE
+C3179135,ENG,FALSE,Sympatric Species,Population Group,FALSE,FALSE
+C3242607,ENG,FALSE,Same sex partner,Population Group,FALSE,FALSE
+C3242659,ENG,FALSE,caregiver information receiver,Population Group,FALSE,FALSE
+C3242660,ENG,FALSE,legitimate relationship information receiver,Population Group,FALSE,FALSE
+C3242661,ENG,FALSE,care team information receiver,Population Group,FALSE,FALSE
+C3242662,ENG,FALSE,work area information receiver,Population Group,FALSE,FALSE
+C3242663,ENG,FALSE,legal guardian consent author,Population Group,FALSE,FALSE
+C3242664,ENG,FALSE,healthcare power of attorney consent author,Population Group,FALSE,FALSE
+C3242665,ENG,FALSE,personal representative consent author,Population Group,FALSE,FALSE
+C3242667,ENG,FALSE,subject of consent author,Population Group,FALSE,FALSE
+C3242669,ENG,FALSE,emergency overrider,Population Group,FALSE,FALSE
+C3242725,ENG,FALSE,non-country member without residence permit,Population Group,FALSE,FALSE
+C3242726,ENG,FALSE,permit card applicant,Population Group,FALSE,FALSE
+C3242741,ENG,FALSE,member of an indigenous people,Population Group,FALSE,FALSE
+C3242744,ENG,FALSE,single minor asylum seeker,Population Group,FALSE,FALSE
+C3242745,ENG,FALSE,non-country member minor without residence permit,Population Group,FALSE,FALSE
+C3242749,ENG,FALSE,non-country member minor with residence permit,Population Group,FALSE,FALSE
+C3242838,ENG,FALSE,ParticipationPhysicalPerformer,Population Group,FALSE,FALSE
+C3242839,ENG,FALSE,ParticipationVerifier,Population Group,FALSE,FALSE
+C3242840,ENG,FALSE,ParticipationInformationRecipient,Population Group,FALSE,FALSE
+C3258173,ENG,FALSE,Some other race alone,Population Group,FALSE,FALSE
+C3258279,ENG,FALSE,Two or more races alone,Population Group,FALSE,FALSE
+C3260948,ENG,FALSE,Cardiac arrest witness,Population Group,FALSE,FALSE
+C3261292,ENG,FALSE,Individuals below poverty line,Population Group,FALSE,FALSE
+C3261294,ENG,FALSE,Individuals on public assistance,Population Group,FALSE,FALSE
+C3261296,ENG,FALSE,Female-headed households,Population Group,FALSE,FALSE
+C3266856,ENG,FALSE,Transgendered Persons,Population Group,FALSE,FALSE
+C3267027,ENG,FALSE,Oocyte donor,Population Group,FALSE,FALSE
+C3275052,ENG,FALSE,Candidate to Receive Cardiac Transplant,Population Group,FALSE,FALSE
+C3275078,ENG,FALSE,Donor for Cardiac Transplant,Population Group,FALSE,FALSE
+C3469280,ENG,FALSE,support persons:,Population Group,FALSE,FALSE
+C3469283,ENG,FALSE,support persons: friend,Population Group,FALSE,FALSE
+C3476341,ENG,FALSE,Person performing procedure,Population Group,FALSE,FALSE
+C3494398,ENG,FALSE,Intersex Persons,Population Group,FALSE,FALSE
+C3494399,ENG,FALSE,Transsexual Persons,Population Group,FALSE,FALSE
+C3494890,ENG,FALSE,Living unrelated donor,Population Group,FALSE,FALSE
+C3494891,ENG,FALSE,Living related donor,Population Group,FALSE,FALSE
+C3495824,ENG,FALSE,Victim of chemical submission,Population Group,FALSE,FALSE
+C3536817,ENG,FALSE,Prisoners of War,Population Group,FALSE,FALSE
+C3538996,ENG,FALSE,Pregnancy Partner,Population Group,FALSE,FALSE
+C3541374,ENG,FALSE,autologous blood donor,Population Group,FALSE,FALSE
+C3542440,ENG,FALSE,"Skin donor, autologous",Population Group,FALSE,FALSE
+C3542995,ENG,FALSE,"bone donor, autologous",Population Group,FALSE,FALSE
+C3640863,ENG,FALSE,Immigrant From High Tuberculosis Prevalent Area,Population Group,FALSE,FALSE
+C3640897,ENG,FALSE,Refugee From High Tuberculosis Prevalent Area,Population Group,FALSE,FALSE
+C3661466,ENG,FALSE,Normal Volunteers,Population Group,FALSE,FALSE
+C3813946,ENG,FALSE,Transsexuals,Population Group,FALSE,FALSE
+C3816164,ENG,FALSE,Asthmatics,Population Group,FALSE,FALSE
+C3824649,ENG,FALSE,Medically uninsured persons,Population Group,FALSE,FALSE
+C3824668,ENG,FALSE,Children of parents with disabilities,Population Group,FALSE,FALSE
+C3824751,ENG,FALSE,Overweight teenagers,Population Group,FALSE,FALSE
+C3824811,ENG,FALSE,Medically uninsured children,Population Group,FALSE,FALSE
+C3824931,ENG,FALSE,Bisexual youth,Population Group,FALSE,FALSE
+C3825015,ENG,FALSE,Teenage prostitution,Population Group,FALSE,FALSE
+C3825117,ENG,FALSE,Older homeless persons,Population Group,FALSE,FALSE
+C3825277,ENG,FALSE,Overweight persons,Population Group,FALSE,FALSE
+C3825290,ENG,FALSE,Teenage immigrants,Population Group,FALSE,FALSE
+C3825674,ENG,FALSE,Single people,Population Group,FALSE,FALSE
+C3825960,ENG,FALSE,Migrant labor,Population Group,FALSE,FALSE
+C3826074,ENG,FALSE,Learning disabled children,Population Group,FALSE,FALSE
+C3826081,ENG,FALSE,Free enterprise,Population Group,FALSE,FALSE
+C3826176,ENG,FALSE,Hospital trustees,Population Group,FALSE,FALSE
+C3826253,ENG,FALSE,Government business enterprises,Population Group,FALSE,FALSE
+C3826599,ENG,FALSE,Cerebral palsied children,Population Group,FALSE,FALSE
+C3826770,ENG,FALSE,Older people,Population Group,FALSE,FALSE
+C3827903,ENG,FALSE,Subject Trial Set,Population Group,FALSE,FALSE
+C3829617,ENG,FALSE,Housemate,Population Group,FALSE,FALSE
+C3842178,ENG,FALSE,Lay person-non-family,Population Group,FALSE,FALSE
+C3843226,ENG,FALSE,Other or unknown,Population Group,FALSE,FALSE
+C3846648,ENG,FALSE,"Non Spanish, Non-Hispanic",Population Group,FALSE,FALSE
+C3846649,ENG,FALSE,Other Specified Spanish,Population Group,FALSE,FALSE
+C3853026,ENG,FALSE,Transplant Donors,Population Group,FALSE,FALSE
+C3853043,ENG,FALSE,Insurance Beneficiary,Population Group,FALSE,FALSE
+C3853635,ENG,FALSE,Race,Population Group,FALSE,FALSE
+C3870601,ENG,FALSE,Blood or Tissue^Donor,Population Group,FALSE,FALSE
+C3887537,ENG,FALSE,Partner,Population Group,FALSE,FALSE
+C3887629,ENG,FALSE,Child abuser,Population Group,FALSE,FALSE
+C3887706,ENG,FALSE,Undocumented Workers,Population Group,FALSE,FALSE
+C3899964,ENG,FALSE,BRCA2 Mutation Carrier,Population Group,FALSE,FALSE
+C3899965,ENG,FALSE,BRCA1 Mutation Carrier,Population Group,FALSE,FALSE
+C4035925,ENG,FALSE,More than one race,Population Group,FALSE,FALSE
+C4035934,ENG,FALSE,"Patient, family member, volunteer, caregiver, or home assistant",Population Group,FALSE,FALSE
+C4049834,ENG,FALSE,Skin donor,Population Group,FALSE,FALSE
+C4060871,ENG,FALSE,Adolescents living in nontraditional settings,Population Group,FALSE,FALSE
+C4060872,ENG,FALSE,Homosexual youth,Population Group,FALSE,FALSE
+C4076206,ENG,FALSE,Live related kidney donor,Population Group,FALSE,FALSE
+C4076207,ENG,FALSE,Live related liver donor,Population Group,FALSE,FALSE
+C4076348,ENG,FALSE,Cadaver donor for liver transplant,Population Group,FALSE,FALSE
+C4076350,ENG,FALSE,Blood product donor,Population Group,FALSE,FALSE
+C4076351,ENG,FALSE,Cadaver donor for lung transplant,Population Group,FALSE,FALSE
+C4076358,ENG,FALSE,Cadaver donor for kidney transplant,Population Group,FALSE,FALSE
+C4076360,ENG,FALSE,Cadaver donor for corneal transplant,Population Group,FALSE,FALSE
+C4076362,ENG,FALSE,Cadaver donor for heart transplant,Population Group,FALSE,FALSE
+C4086193,ENG,FALSE,Clinical Trial Device Review Committee,Population Group,FALSE,FALSE
+C4274271,ENG,FALSE,Multi-organ donor,Population Group,FALSE,FALSE
+C4275273,ENG,FALSE,"Open Episcopal Church, follower of religion",Population Group,FALSE,FALSE
+C4277573,ENG,FALSE,Sexual and Gender Minorities,Population Group,FALSE,FALSE
+C4279905,ENG,FALSE,Two-Spirit Persons,Population Group,FALSE,FALSE
+C4279910,ENG,FALSE,Sex Worker Clients,Population Group,FALSE,FALSE
+C4279989,ENG,FALSE,Gender Minorities,Population Group,FALSE,FALSE
+C4280985,ENG,FALSE,Appointed healthcare surrogate,Population Group,FALSE,FALSE
+C4280986,ENG,FALSE,Default healthcare surrogate,Population Group,FALSE,FALSE
+C4285718,ENG,FALSE,Ex-alcohol user,Population Group,FALSE,FALSE
+C4287879,ENG,FALSE,Schoolmate,Population Group,FALSE,FALSE
+C4288881,ENG,FALSE,Intercontinental Ethnicity,Population Group,FALSE,FALSE
+C4290494,ENG,FALSE,perpetrator of abandonment,Population Group,FALSE,FALSE
+C4290495,ENG,FALSE,perpetrator of emotional neglect,Population Group,FALSE,FALSE
+C4290496,ENG,FALSE,perpetrator of mental cruelty,Population Group,FALSE,FALSE
+C4290497,ENG,FALSE,perpetrator of physical neglect,Population Group,FALSE,FALSE
+C4290498,ENG,FALSE,perpetrator of torture,Population Group,FALSE,FALSE
+C4305252,ENG,FALSE,Live donor of kidney,Population Group,FALSE,FALSE
+C4318937,ENG,FALSE,Matched Unrelated Donor,Population Group,FALSE,FALSE
+C4324275,ENG,FALSE,Woman of childbearing potential,Population Group,FALSE,FALSE
+C4330269,ENG,FALSE,Household Member,Population Group,FALSE,FALSE
+C4331364,ENG,FALSE,Suspected Source Case,Population Group,FALSE,FALSE
+C4505215,ENG,FALSE,"Smokers, Non-Tobacco Products",Population Group,FALSE,FALSE
+C4505216,ENG,FALSE,Electronic cigarette user,Population Group,FALSE,FALSE
+C4505217,ENG,FALSE,"Smokers, Tobacco",Population Group,FALSE,FALSE
+C4521283,ENG,FALSE,Dose Expansion Cohort,Population Group,FALSE,FALSE
+C4523838,ENG,FALSE,Wig wearer,Population Group,FALSE,FALSE
+C4528333,ENG,FALSE,Reader 3,Population Group,FALSE,FALSE
+C4534560,ENG,FALSE,Undocumented citizen,Population Group,FALSE,FALSE
+C4540772,ENG,FALSE,Populations living at high altitudes,Population Group,FALSE,FALSE
+C4540955,ENG,FALSE,Young adult males,Population Group,FALSE,FALSE
+C4540957,ENG,FALSE,Children < 5 years,Population Group,FALSE,FALSE
+C4553565,ENG,FALSE,Random Sample Population,Population Group,FALSE,FALSE
+C4554048,ENG,FALSE,Study Participant,Population Group,FALSE,FALSE
+C4554109,ENG,FALSE,Clinical Trial Dropout,Population Group,FALSE,FALSE
+C4554605,ENG,FALSE,Non-Smokers - population group,Population Group,FALSE,FALSE
+C4555205,ENG,FALSE,Ex-Smokers,Population Group,FALSE,FALSE
+C4684563,ENG,FALSE,Analysis Set of Subjects,Population Group,FALSE,FALSE
+C4684612,ENG,FALSE,Contingent Subject Trial Contact,Population Group,FALSE,FALSE
+C4684632,ENG,FALSE,Data Subject,Population Group,FALSE,FALSE
+C4684687,ENG,FALSE,Impartial Witness,Population Group,FALSE,FALSE
+C4684744,ENG,FALSE,Proxy Respondent,Population Group,FALSE,FALSE
+C4684768,ENG,FALSE,Secondary Sponsor,Population Group,FALSE,FALSE
+C4697924,ENG,FALSE,Multiple races,Population Group,FALSE,FALSE
+C4698228,ENG,FALSE,Some Other Race (specify),Population Group,FALSE,FALSE
+C4698405,ENG,FALSE,Foreign national US resident,Population Group,FALSE,FALSE
+C4698406,ENG,FALSE,US resident,Population Group,FALSE,FALSE
+C4723801,ENG,FALSE,Cornea Donor,Population Group,FALSE,FALSE
+C4724683,ENG,FALSE,Public communication target group,Population Group,FALSE,FALSE
+C4727184,ENG,FALSE,Northeastern Asian,Population Group,FALSE,FALSE
+C4744585,ENG,FALSE,TP53 Mutation Carrier,Population Group,FALSE,FALSE
+C4760587,ENG,FALSE,Indigenous Peoples,Population Group,FALSE,FALSE
+C5197709,ENG,FALSE,Para-Athletes,Population Group,FALSE,FALSE
+C5197710,ENG,FALSE,Paralympians,Population Group,FALSE,FALSE
+C5197839,ENG,FALSE,Displaced Persons,Population Group,FALSE,FALSE
+C5197894,ENG,FALSE,Atomic Bomb Survivors,Population Group,FALSE,FALSE
+C5200718,ENG,FALSE,Wheelchair Athletes,Population Group,FALSE,FALSE
+C5200737,ENG,FALSE,Atomic Bomb-Affected People,Population Group,FALSE,FALSE
+C5200738,ENG,FALSE,Hibakusha,Population Group,FALSE,FALSE
+C5201276,ENG,FALSE,Former user,Population Group,FALSE,FALSE
+C5205742,ENG,FALSE,Treatment Group,Population Group,FALSE,FALSE
+C5205743,ENG,FALSE,Experimental Group,Population Group,FALSE,FALSE
+C5205744,ENG,FALSE,Demographic Group,Population Group,FALSE,FALSE
+C5206755,ENG,FALSE,Clinical Trial Candidate,Population Group,FALSE,FALSE
+C5235900,ENG,FALSE,Minority Health Populations,Population Group,FALSE,FALSE
+C5236213,ENG,FALSE,Insured Person,Population Group,FALSE,FALSE
+C5236237,ENG,FALSE,Planned Study Subject,Population Group,FALSE,FALSE
+C5236466,ENG,FALSE,Electronic Nicotine Delivery System User,Population Group,FALSE,FALSE
+C5239593,ENG,FALSE,Health Disparate Populations,Population Group,FALSE,FALSE
+C5240702,ENG,FALSE,Household contacts,Population Group,FALSE,FALSE
+C5392984,ENG,FALSE,Elite Athletes,Population Group,FALSE,FALSE
+C5425875,ENG,FALSE,Infants & toddlers 6-35 months old,Population Group,FALSE,FALSE
+C5425876,ENG,FALSE,Household contacts of infants,Population Group,FALSE,FALSE
+C5425877,ENG,FALSE,Children 3-18 years old with high risk condition,Population Group,FALSE,FALSE
+C5425878,ENG,FALSE,Children 3-18 years old without high risk condition,Population Group,FALSE,FALSE
+C5425879,ENG,FALSE,Adults 19-64 years old with high risk condition,Population Group,FALSE,FALSE
+C5425880,ENG,FALSE,Adults >65 years old,Population Group,FALSE,FALSE
+C5425881,ENG,FALSE,Healthy adults 19-64 years old,Population Group,FALSE,FALSE
+C5427552,ENG,FALSE,Public communication target group &#x7C; Event &#x7C; Public health,Population Group,FALSE,FALSE
+C5451802,ENG,FALSE,people who have received first dose of vaccine,Population Group,FALSE,FALSE
+C5451804,ENG,FALSE,People who are fully vaccinated,Population Group,FALSE,FALSE
+C5451807,ENG,FALSE,People in long-term care facilities who have received first dose of vaccine,Population Group,FALSE,FALSE
+C5451808,ENG,FALSE,People in long-term care facilities who are fully vaccinated,Population Group,FALSE,FALSE
+C5452703,ENG,FALSE,Child/student,Population Group,FALSE,FALSE
+C5452931,ENG,FALSE,"Family, friends, or neighbors",Population Group,FALSE,FALSE
+C5452960,ENG,FALSE,Other household members/roomates,Population Group,FALSE,FALSE
+C5453861,ENG,FALSE,Patient escort,Population Group,FALSE,FALSE
+C5544527,ENG,FALSE,Health Disparate Minority and Vulnerable Populations,Population Group,FALSE,FALSE
+C5545326,ENG,FALSE,People Who Inject Drugs,Population Group,FALSE,FALSE
+C5546515,ENG,FALSE,Live donor for lung transplant,Population Group,FALSE,FALSE
+C5547362,ENG,FALSE,Product target population,Population Group,FALSE,FALSE
+C5547365,ENG,FALSE,Pediatric population,Population Group,FALSE,FALSE
+C5547366,ENG,FALSE,Adult population,Population Group,FALSE,FALSE
+C5554175,ENG,FALSE,Breast milk donor,Population Group,FALSE,FALSE
+C5568857,ENG,FALSE,Donor after circulatory death,Population Group,FALSE,FALSE
+C5568858,ENG,FALSE,Donor after neurological death,Population Group,FALSE,FALSE
+C5687643,ENG,FALSE,Extended criteria donor for organ transplant,Population Group,FALSE,FALSE
+C5689664,ENG,FALSE,Court appointed guardian,Population Group,FALSE,FALSE
+C5689665,ENG,FALSE,Legal surrogate/health care agent,Population Group,FALSE,FALSE
+C5690857,ENG,FALSE,"Population Groups, US",Population Group,FALSE,FALSE
+C5691268,ENG,FALSE,Minority Populations,Population Group,FALSE,FALSE
+C5691371,ENG,FALSE,Oceanic Ancestry Group,Population Group,FALSE,FALSE
+C5691408,ENG,FALSE,"Latin Americans, US",Population Group,FALSE,FALSE
+C5708903,ENG,FALSE,High Risk Study Participant,Population Group,FALSE,FALSE
+C5780480,ENG,FALSE,Clinical trial healthy volunteer,Population Group,FALSE,FALSE
+C5817432,ENG,FALSE,Deputy,Population Group,FALSE,FALSE
+C5819624,ENG,FALSE,perpetrator of verbal abuse,Population Group,FALSE,FALSE
+C5828324,ENG,FALSE,Gender-Nonconforming Persons,Population Group,FALSE,FALSE
+C5828334,ENG,FALSE,Voters,Population Group,FALSE,FALSE
+C5828382,ENG,FALSE,Unvaccinated Persons,Population Group,FALSE,FALSE
+C5828383,ENG,FALSE,Non-Immunized Persons,Population Group,FALSE,FALSE
+C5828542,ENG,FALSE,Detained Persons,Population Group,FALSE,FALSE
+C5828606,ENG,FALSE,Transfeminine Persons,Population Group,FALSE,FALSE
+C5828607,ENG,FALSE,Transmasculine Persons,Population Group,FALSE,FALSE
