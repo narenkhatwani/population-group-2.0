@@ -19,3 +19,11 @@ expansion of the “Population Group” Semantic Type to better accommodate thes
 societal realities. With the introduction of the suggested new Semantic Types, we
 aim to facilitate more precise healthcare data management, research, and policy
 making.
+
+### Index
+
+
+### Results
+
+
+### Conclusion
