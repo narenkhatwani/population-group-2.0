@@ -24,6 +24,6 @@ making.
 
 
 ### Results
-
+![Population Group 2.0](https://github.com/narenkhatwani/population-group-2.0/blob/main/img/tree.png?raw=true)
 
 ### Conclusion
