@@ -3,6 +3,10 @@ This is a supplement repository to our paper "Population Group 2.0: Bringing the
 
 Authors: N Khatwani, J Geller
 
+Conference: Medical Informatics Europe 2025 "Intelligent health systems – From technology to data and knowledge" 
+
+https://mie2025.efmi.org/programme
+
 --------------------------------------
 # Population Group 2.0
 
