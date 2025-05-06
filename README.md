@@ -193,3 +193,5 @@ Entity
 ![Population Group 2.0](https://github.com/narenkhatwani/population-group-2.0/blob/main/img/tree.png?raw=true)
 
 ### Conclusion
+
+While the UMLS Metathesaurus is updated twice a year, the Semantic Network has not kept pace with evolving societal structures. Our proposal introduces a revision to the Population Group semantic type by adding seven new, more representative subtypes. This update aims to reflect contemporary population distinctions more accurately. Looking ahead, we plan to engage the medical community for feedback and endorsement. We also intend to explore potential updates to the Semantic Network that address scientific progress, not just social change. A form of extension can be our two stage COncept Utility Framework, which can be found at https://github.com/narenkhatwani/concept-utility-case-study
