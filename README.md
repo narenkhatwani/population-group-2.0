@@ -167,6 +167,27 @@ Entity
             
 ### UMLS Semantic Network (After Population Group 2.0)
 
+```
+Entity
+├── Physical Object
+│   ...
+├── Conceptual Entity
+│   ├── ...
+│   ├── Group
+│   │   ├── Professional or Occupational Group
+│   │   ├── Population Group
+│   │   │   ├── Disadvantaged Group         ← 🆕 Proposed
+│   │   │   ├── Behavioral Patients         ← 🆕 Proposed
+│   │   │   ├── Patient Health              ← 🆕 Proposed
+│   │   │   ├── Social Group                ← 🆕 Proposed
+│   │   │   ├── Racial/Ethnic Group         ← 🆕 Proposed
+│   │   │   ├── Gender based Group          ← 🆕 Proposed
+│   │   │   └── Refugee Group               ← 🆕 Proposed
+│   │   ├── Family Group
+│   │   ├── Age Group
+│   │   └── Patient or Disabled Group
+│   ├── ...
+```
 
 ### Results
 ![Population Group 2.0](https://github.com/narenkhatwani/population-group-2.0/blob/main/img/tree.png?raw=true)
