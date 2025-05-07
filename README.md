@@ -26,6 +26,12 @@ making.
 
 ### Index
 
+- [Code](https://github.com/narenkhatwani/population-group-2.0/tree/main/code)
+- [Data](https://github.com/narenkhatwani/population-group-2.0/tree/main/data)
+- [Requirements](https://github.com/narenkhatwani/population-group-2.0/tree/main/requirements)
+
+
+
 ### UMLS Semantic Network (Current Hierarchy)
 ```
 Entity
