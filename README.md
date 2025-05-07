@@ -190,6 +190,9 @@ Entity
 ```
 
 ### Results
+##### Wordclouds based on keyword occurences in the PubMed Abstracts and MetaData
+![WordCloud](https://github.com/narenkhatwani/population-group-2.0/blob/main/img/word_cloud.png)
+##### Proposed Semantic Types
 ![Population Group 2.0](https://github.com/narenkhatwani/population-group-2.0/blob/main/img/tree.png?raw=true)
 
 ### Conclusion
