@@ -7,9 +7,10 @@ Conference: Medical Informatics Europe 2025 "Intelligent health systems – From
 
 https://mie2025.efmi.org/programme
 
-Paper Link
+**Paper Link**
 
 Khatwani, N., & Geller, J. (2025). Population Group 2.0: Bringing the UMLS Semantic Network up to Speed. Studies in Health Technology and Informatics, 327, 1373–1377. https://doi.org/10.3233/SHTI250627
+
 --------------------------------------
 # Population Group 2.0
 
